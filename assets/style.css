@@ -3,3 +3,6 @@
 .seller-callout p:not(.eyebrow),#enquire p:not(.eyebrow){color:var(--muted);max-width:700px;font-size:14px}.seller-callout .button{margin-top:16px}.contact-note{font-size:12px!important;margin-top:25px}nav{gap:20px}@media(min-width:901px) and (max-width:1120px){.header{flex-wrap:wrap;padding-block:20px;gap:14px}nav{width:100%;justify-content:space-between}}
 
 .contact-actions{margin-top:28px}.contact-actions a{overflow-wrap:anywhere}.contact-actions .button{max-width:100%}
+
+/* Brand mark and contact navigation */
+.brand{gap:0;letter-spacing:0}.brand img{display:block;width:auto;height:62px;max-width:180px;object-fit:contain}.footer-brand img{height:48px}.copyright a{color:var(--gold);border-bottom:1px solid #c8ac7155;padding-bottom:2px}.copyright a:hover{border-color:var(--gold)}@media(max-width:620px){.brand img{height:55px}.footer-brand img{height:45px}}
